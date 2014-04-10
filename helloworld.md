@@ -10,4 +10,4 @@
 * salve mundi
 * Alo Mondyal
 
-### Translation are literal, Please excuse and miss-trasnlations.
+### Translation are literal, Please excuse any miss-trasnlations.
