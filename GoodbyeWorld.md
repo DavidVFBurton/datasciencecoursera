@@ -1,8 +1,8 @@
 Well Golly..
 ==
 
-I did not follow instructions.
---
+### I did not follow instructions.
+
 
 I seems that after doing the peer review, I found that I missed something in the translation.
 
